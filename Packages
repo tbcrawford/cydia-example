@@ -4,12 +4,13 @@ Architecture: iphoneos-arm
 Maintainer: superp0s
 Depends: com.modmyi.softkeysounds, com.exile90.icleanerpro, org.thebigboss.nudekeys
 Filename: debs/com.superp0s.personalpackages_1.0.0_iphoneos-arm.deb
-Size: 680
-MD5sum: 38a1e5d7117746738c0c21ecd31c6dba
-SHA1: 28d839a8166ad38bb8a5ff6849763265abfacfc6
-SHA256: 886b752ef6b695136c9bb66b055d0fc5fe17d265dd14ecfe4924090ff5c0175c
+Size: 734
+MD5sum: 6e86a69c1bd355ea1c4c2494e618be3e
+SHA1: aed47fe4caeaf6fe870e9fa29a23df34359014dd
+SHA256: 6d8a1dcc91f1edbd34eaa0698155e33bc58f79f826bb329343bb09bc474f258d
 Section: Utilities
 Description: Adds essential packages so they do not need to be added manually, personal use only.
 Author: superp0s
+Depiction: http://tbcrawford.github.io/cydia/depictions/?p=com.jamsoftonline.provenance
 Name: Personal Packages
 
