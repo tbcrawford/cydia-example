@@ -1,0 +1,14 @@
+Package: com.superp0s.personalpackages
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: tcrawford
+Depends: com.modmyi.softkeysounds, com.exile90.icleanerpro, org.thebigboss.nudekeys
+Filename: debs/com.superp0s.personalpackages_1.0.0_iphoneos-arm.deb
+Size: 682
+MD5sum: 760453f15d30979cc3f35f5763f33ccf
+SHA1: 0e0757db0fa65819a6e332ea3a3668f76879ee87
+SHA256: 6f0bfacdec7b2aa704f676f5e2b3bca74de1ad8f5410050002488b1ffa424885
+Section: Utilities
+Description: Adds essential packages so they do not need to be added manually, personal use only.
+Author: tcrawford
+Name: Personal Packages
