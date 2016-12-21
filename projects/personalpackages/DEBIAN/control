@@ -1,9 +1,0 @@
-Package: com.superp0s.personalpackages
-Name: Personal Packages
-Depends: com.modmyi.softkeysounds, com.exile90.icleanerpro, org.thebigboss.nudekeys
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Adds essential packages so they do not need to be added manually, personal use only.
-Maintainer: tcrawford
-Author: tcrawford
-Section: Utilities
